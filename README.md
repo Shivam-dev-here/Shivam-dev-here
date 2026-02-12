@@ -1,9 +1,10 @@
 ## Greetings 👋
--🤖 I'm Shivam Srivastava, Pushing myself to be Expert in Python.
--🌱Currently learning NLP.
+- 🤖 I'm Shivam Srivastava, Pushing myself to be Expert in Python.
 
--⚡Next target is ML.
--💪My consistency is high.
+- 🌱Currently learning NLP.
+
+- ⚡Next target is ML.
+- 💪My consistency is high.
 
 <!--
 **Shivam-dev-here/Shivam-dev-here** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
